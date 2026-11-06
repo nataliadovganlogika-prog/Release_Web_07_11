@@ -195,3 +195,35 @@ footer{
 .bar h5{
     margin-bottom: 20px;
 }
+
+.back{
+    color: #6254cc;
+    font-size: 1.2rem;
+} 
+
+.item{
+    margin-top: 60px;
+    display: flex;
+    gap: 60px;
+}
+
+.item-text h1{
+    font-size: 3.1rem;
+    color: #c9c3f7;
+    margin-bottom: 30px;
+}
+
+.item-p{
+    font-size: 1.2rem;
+    width: 420px;
+    color: #c9c3f7;
+    margin: 30px 0;
+    margin-bottom: 20px;
+}
+
+.price{
+    color: #28588C;
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
