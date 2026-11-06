@@ -164,11 +164,13 @@ footer{
 .back{
     color: lightgrey;
     font-size: 1.2rem;
+    margin-left: 60px;
 }
 .item{
     margin-top: 60px;
     display: flex;
     gap: 60px;
+    margin-left: 60px;
 }
 .item-text h1{
     font-size: 3.1rem;
