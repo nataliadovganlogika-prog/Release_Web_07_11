@@ -109,50 +109,6 @@ font-size: 1.2rem;
     margin-bottom: 20px;
 }    
 
-*{
-    margin: 0;
-    font-family: Bitter;
-}
-body{
-    background-color: #FFFFFF;
-}
-.navbar{
-    display: flex;
-    padding: 10px 10px;
-    background-color: white;
-    color: black;
-    font-size: 1.1rem;
-    align-items: center;
-    justify-content: space-between;
-    text-shadow: 0 1px 1px rgba(255,255,255,0.5);
-}
-nav a{
-    text-decoration: none;
-    color: black;
-    margin: 0 15px;
-    font-size: 1rem;
-     text-shadow: 0 1px 1px rgba(255,255,255,0.5);
-    
-}
-nav{
-    display: block;
-}
-.hero{
-    min-height: 50vh;
-    background: url("фон.jfif") center/cover no-repeat;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    color: black;
-    font-size: 2.5rem;
-    text-shadow: 0 10px 10px rgba(255,255,255,0.8);
-}
-.hero h3{
-    font-size: 1.8rem;
-}
-
-
 main{
     padding: 30px 200px;
     color: black;
