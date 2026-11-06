@@ -173,8 +173,35 @@ footer{
 .bar h5{
     margin-bottom: 20px;
 }
+.back{
+    color: blue;
+    font-size: 1.2rem;
+}
 
-
+.item{
+    margin-top: 60px;
+    display: flex;
+    gap: 60px;
+}
+.item-text h1{
+    font-size: 1.2rem;
+    color: blue;
+    margin-bottom: 30px;
+}
+.item-p {
+font-size: 1.2rem;
+width: 420px;
+color: gray;
+margin: 20px;
+margin-bottom: 30px;
+   }
+   
+   .price{
+       color: #28588C;
+       font-size: 2rem;
+       font-weight: bold;
+       margin-bottom: 60px;
+   }
 
 
 
