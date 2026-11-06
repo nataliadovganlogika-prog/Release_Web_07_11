@@ -87,7 +87,7 @@ main{
 }
 
 footer{
-    background-color: lightblue;
+    background-color: lightgrey;
     height: 200px;
     display: flex;
     justify-content: space-evenly;
