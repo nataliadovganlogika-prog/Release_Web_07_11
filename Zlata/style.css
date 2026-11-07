@@ -3,12 +3,12 @@
     font-family: Sans-Serif;
 }
 body{
-    background-color: #721121;
+    background-color: #550809;
 }
 .navbar{
     display: flex;
     padding: 15px 30px;
-    background-color:#550809 ;
+    background-color: darkred ;
     color: #915555;
     font-size: 1.1rem;
     align-items: center;
@@ -26,7 +26,7 @@ nav{
     display: block;
 }
 .sale{
-    background-color: #550809;
+    background-color: darkred;
     padding: 5px;
     color: white;
     font-size: 0.9rem;
@@ -55,10 +55,11 @@ nav{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    color: #550809;
+    color: darkred;
     font-size: 2rem;
-    text-shadow: 0 10px 10px rgba(0,0,0,0.8);
+    text-shadow: 0 14px 14px rgba(255,255,255,0.8);
 }
+
 .hero h3{
     font-size: 1.8rem;
 }
@@ -75,6 +76,8 @@ nav{
     transition: all 0.2s ease-in-out;
     box-shadow: 0 14px 14px rgba(0,0,0,0.5);
 }
+
+
 .main{
     padding: 30px 200px;
     color: #915555;
@@ -138,13 +141,14 @@ nav{
     transform: scale(1.05);
 }
 .hero a:hover,.btn-more:hover{
-    background-color:#FE001A;
+    background-color:darkred;
 }
 footer{
     background-color: darkred;
     height: 200px;
     display: flex;
     justify-content: space-evenly;
+    margin-top: 40px;
 }
 .bar{
     padding-top: 30px;
